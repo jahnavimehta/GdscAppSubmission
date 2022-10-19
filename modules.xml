@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Easy-Note.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Easy-Note.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Easy-Note.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Easy-Note.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Easy-Note.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Easy-Note.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Easy_Notes.iml" filepath="$PROJECT_DIR$/.idea/modules/Easy_Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Easy_Notes.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Easy_Notes.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.main.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_note/Easy_Notes.feature_note.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.main.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature_settings/Easy_Notes.feature_settings.unitTest.iml" />
+    </modules>
+  </component>
+</project>
